@@ -1,0 +1,15 @@
+.login-center {
+    background-color: rgb(187, 247, 222);
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: black(58, 58, 58);
+}
